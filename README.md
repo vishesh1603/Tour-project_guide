@@ -80,16 +80,3 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
-## 🤝 Contributing
-
-**Calling All Open Source Contributors!** We would love your help in shaping the future of this repository.
-
-1. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-2. Look at our [Open Issues](https://github.com/Yash-srivastav16/Tour-Project/issues) (look for the `good first issue` label!).
-3. Fork the Project, create your Feature Branch (`git checkout -b feature/AmazingFeature`), and open a Pull Request.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
