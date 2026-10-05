@@ -7,6 +7,8 @@ Built with HTML5, CSS3 and JavaScript.
 <!-- Replace the file name below with an image from your screenshot/ folder -->
 ![Home page screenshot](screenshot/home.PNG)
 
+**Live demo:** https://vishesh1603.github.io/Tour-project_guide/
+
 ## Features
 
 - **Hero section** with a call to action that scrolls to the adventures section
