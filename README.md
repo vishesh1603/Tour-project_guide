@@ -5,7 +5,7 @@ A responsive, single-page website for a tour and travel agency. It lists adventu
 Built with HTML5, CSS3 and JavaScript.
 
 <!-- Replace the file name below with an image from your screenshot/ folder -->
-![Home page screenshot](screenshot/home.png)
+![Home page screenshot](screenshot/home.PNG)
 
 ## Features
 
